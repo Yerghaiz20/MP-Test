@@ -19320,7 +19320,6 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.SetVar,
 	cr.plugins_.TextBox.prototype.exps.Text,
 	cr.system_object.prototype.acts.GoToLayout,
-	cr.plugins_.Browser.prototype.acts.GoToURLWindow,
 	cr.system_object.prototype.cnds.IsGroupActive,
 	cr.plugins_.Function.prototype.cnds.OnFunction,
 	cr.plugins_.TextBox.prototype.acts.SetText,
