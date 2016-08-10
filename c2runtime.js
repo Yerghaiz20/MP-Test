@@ -19582,6 +19582,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Multiplayer.prototype.cnds.OnPeerConnected,
 	cr.plugins_.Multiplayer.prototype.exps.PeerAlias,
 	cr.plugins_.Multiplayer.prototype.cnds.OnPeerDisconnected,
+	cr.plugins_.Button.prototype.acts.SetBoolInstanceVar,
 	cr.system_object.prototype.cnds.Repeat,
 	cr.plugins_.List.prototype.exps.ItemCount,
 	cr.plugins_.List.prototype.cnds.CompareTextAt,
